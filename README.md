@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [a.allaaeddine.riad@gmail.com](mailto:a.allaaeddine.riad@gmail.com)
-* 🧠  I'm learning Graphql
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Websites
 * ⚡  i'm also ineterested in Game Developement
 
