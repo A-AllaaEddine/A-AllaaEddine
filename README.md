@@ -6,7 +6,6 @@ Web Developer
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [a.allaaeddine.riad@gmail.com](mailto:a.allaaeddine.riad@gmail.com)
-* 🧠  I'm learning MongoDB
 * 🤝  I'm open to collaborating on Websites / Apps
 
 ### Skills
