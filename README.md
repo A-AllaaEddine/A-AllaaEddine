@@ -4,7 +4,7 @@ Hi 👋 My name is Allaa Eddine
 Web Developer
 -------------
 
-* 🌍  I'm based in Algeria
+* 🌍  I'm based in Nantong, Jiangsu, China.
 * ✉️  You can contact me at [a.allaaeddine.riad@gmail.com](mailto:a.allaaeddine.riad@gmail.com)
 * 🤝  I'm open to collaborating on Websites / Apps
 
