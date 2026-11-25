@@ -2,12 +2,7 @@
 
 **Full-Stack Developer — Web & Mobile Applications**
 
-I build web and mobile products with a focus on clear interfaces, maintainable application structure, and useful end-to-end features.
-
-## Background
-
-- BSc in Computer Science (2025)
-- Paid freelance development experience (2023–2025)
+I build web and mobile products with a focus on clear interfaces, maintainable application structure, and useful end-to-end features. My experience includes freelance development, independent software projects, and open-source library development.
 
 ## Selected engineering work
 
